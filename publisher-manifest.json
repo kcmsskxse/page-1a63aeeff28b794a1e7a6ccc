@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "56ec3f0822834b82d8243c90",
+  "owner": "kcmsskxse",
+  "repo": "page-1a63aeeff28b794a1e7a6ccc",
+  "title": "松果云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a63aeeff28b794a1e7a6ccc",
+      "a": "松果云",
+      "b": "",
+      "entity": "松果云",
+      "brand": "松果云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e10a8a3b07f65ad3776701fa4edd3a7218ab690b8c03105c3930049f24d7ed38",
+      "content": {
+        "keyword1": "松果云",
+        "keyword2": "",
+        "primary_entity": "松果云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "松果云是提供机场订阅与VPN客户端的网络加速服务官网，覆盖办公、流媒体与游戏场景，支持多设备在线与年付优惠，欢迎通过官方网站了解套餐并下载客户端。",
+          "AI_DESCRIPTION": "松果云是提供机场订阅与VPN客户端的网络加速服务官网，覆盖办公、流媒体与游戏场景，支持多设备在线与年付优惠，欢迎通过官方网站了解套餐并下载客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans SC\",sans-serif;background:#FFF8F0;color:#3D2C29;line-height:1.75;font-size:16px;overflow-x:hidden}a{color:#C45C4A}header,main,footer{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#FFF5EE;border-bottom:3px solid #E07A5F;padding:14px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand{font-size:1.35rem;font-weight:700;color:#B84A3A;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{text-decoration:none;font-weight:600;color:#C45C4A}main{padding:22px 0 40px}h1{font-size:1.7rem;color:#B84A3A;line-height:1.35;margin:6px 0 14px}h2{font-size:1.32rem;color:#C45C4A;margin:28px 0 12px;border-left:4px solid #E07A5F;padding-left:10px}h3{font-size:1.08rem;color:#8B4032;margin:14px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.2em;margin-bottom:12px}.lead{font-size:1.02rem}.hero{display:flex;flex-wrap:wrap;gap:18px;align-items:stretch;margin:8px 0 22px}.hero-text{flex:1.2;min-width:260px}.hero-aside{flex:1;min-width:240px;background:#fff;border:2px solid #E07A5F;border-radius:10px;padding:16px}.hero-aside h2{margin-top:0;border:0;padding:0;font-size:1.15rem}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:8px 0 18px}.plan{flex:1;min-width:250px;background:#fff;border:1px solid #F0D9D0;border-radius:10px;padding:16px}.plan.featured{border:2px solid #E07A5F;background:#FFF5EE}.price{font-size:1.28rem;color:#C45C4A;font-weight:700}.annual{color:#8B4032;font-size:0.95rem;margin-bottom:8px}.badge{display:inline-block;background:#E07A5F;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.stagger{display:flex;flex-wrap:wrap;gap:20px;margin:16px 0}.stagger>div{flex:1;min-width:260px;background:#fff;border-radius:10px;padding:16px;border:1px solid #F0D9D0}.stagger.alt{flex-direction:row-reverse}.stagger.alt>div:first-child{background:#FFF5EE;border-color:#E07A5F}.faq-wrap{background:#FFF5EE;border:2px solid #E07A5F;border-radius:12px;padding:16px;margin-top:8px}details{background:#fff;border:1px solid #F0D9D0;border-radius:8px;margin-bottom:10px}summary{padding:12px 14px;font-weight:700;color:#B84A3A;cursor:pointer}details p{padding:0 14px 12px}footer{background:#3D2C29;color:#FFF8F0;padding:28px 0;font-size:14px}footer a{color:#FFB4A2;margin-right:10px}footer h2{color:#FFB4A2;border-left-color:#FFB4A2;margin-top:0}.muted{opacity:0.9;margin-top:12px}@media (max-width:720px){h1{font-size:1.42rem}.hero,.stagger,.stagger.alt,.plans{flex-direction:column}nav{width:100%}}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#top\">松果云</a><nav><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><h1>松果云官方网站：机场订阅、VPN 梯子加速与客户端下载</h1><div class=\"hero\"><div class=\"hero-text\"><p class=\"lead\">松果云是面向个人与团队的网络加速服务品牌，以机场订阅为核心，同时支持主流 VPN / 代理客户端接入。访问本站即可了解套餐、获取客户端下载指引，并按官方流程导入订阅、选择节点完成加速。</p><p>服务覆盖跨境办公、流媒体观看、在线会议与游戏对战等日常需求。旗舰线路包含 IPLC 专线优化，适合对延迟与稳定性更敏感的使用方式。请认准松果云官网获取订阅与下载说明，避免来路不明的配置文件。</p></div><aside class=\"hero-aside\"><h2>官网要点</h2><ul><li>机场订阅一键导入常见客户端</li><li>基础 / 旗舰 / 团队三档流量与设备配额</li><li>原生流媒体解锁与游戏向专线节点</li><li>年付价格更低，适合长期使用</li><li>工单通道处理节点与账号问题</li></ul></aside></div><h2 id=\"plans\">套餐与机场订阅</h2><p>松果云提供可按月或按年开通的机场订阅。订阅开通后即可在客户端中更新节点、按地区与用途切换线路。下列套餐为官网公示方案，流量、同时在线设备数与线路能力逐级提升。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>个人轻度浏览与基础解锁可选基础版；需要完整流媒体与游戏加速时建议旗舰版；多人共享或公司统一出口适合团队版。年付按 10 个月计费，长期使用成本更清晰。</p><h2 id=\"scenes\">使用场景</h2><div class=\"stagger\"><div><h3>跨境办公与远程协作</h3><p>视频会议、云盘同步、代码仓库与海外 SaaS 在高峰时段容易抖动。将办公设备接入松果云机场订阅后，可按地区选择延迟更低的节点，保持会议与文档协作相对稳定。</p></div><div><h3>流媒体与内容库访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合需要连续播放的场景。基础版覆盖常见内容库入门需求。播放前请先更新订阅，再在客户端中选用标注解锁的线路。</p></div></div><div class=\"stagger alt\"><div><h3>游戏加速与对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，用于降低匹配与对战中的绕路时延。请将游戏设备计入同时在线台数，并尽量固定一条延迟表现稳定的专线节点，避免频繁切换。</p></div><div><h3>学习研究与开发调试</h3><p>文档站点、软件源、接口调试与模型服务常需要稳定出口。团队版提供更高流量与专属带宽，也可按企业习惯做定制路由，把办公网段与个人设备分开管理。</p></div></div><h2 id=\"download\">客户端下载与平台支持</h2><p>松果云机场订阅可导入主流代理客户端，无需单独锁定某一封闭 App。官方网站建议优先使用下列类型客户端，并仅从各客户端项目或应用商店的正规渠道获取安装包。</p><div class=\"stagger\"><div><h3>桌面端</h3><ul><li>Windows：Clash Verge、Clash Meta、v2rayN</li><li>macOS：ClashX Meta、Surge、Stash</li><li>Linux：Clash Meta 内核与常见图形前端</li></ul></div><div><h3>移动端</h3><ul><li>Android：Clash Meta for Android、类似兼容客户端</li><li>iOS：Shadowrocket、Quantumult X、Stash、Surge</li></ul><p>下载完成后不要填写来路不明的订阅。回到松果云官网账户说明中复制订阅链接，再在客户端内粘贴更新。</p></div></div><h2 id=\"guide\">操作说明</h2><ol><li>在本页对比基础版、旗舰版或团队版，确认流量、设备数与是否需要 IPLC / 全量流媒体解锁。</li><li>完成官网开通后，进入订阅管理复制通用订阅地址（Clash / SIP008 等格式以面板显示为准）。</li><li>安装对应系统的客户端，新建配置并粘贴订阅链接，执行更新以拉取节点列表。</li><li>按用途选择节点：日常浏览可用普通线路；视频选择解锁节点；对战游戏优先 IPLC 专线。</li><li>开启系统代理或 TUN / 增强模式（以客户端名称为准），访问目标站点验证连通。</li><li>若提示流量或设备超限，减少同时在线终端，或升级到旗舰版、团队版。</li></ol><p>遇到证书、DNS 或规则集问题，先在客户端内切换节点并更新订阅；仍异常时通过工单说明系统版本、客户端名称与错误原文，便于对照线路侧排查。</p><h2 id=\"faq\">常见问题</h2><div class=\"faq-wrap\"><p>以下为松果云官网整理的高频说明，覆盖机场订阅、VPN 客户端下载与套餐差异。展开即可阅读完整回答。</p><details><summary>松果云是机场还是 VPN？和普通加速器有何不同？</summary><p>松果云以机场订阅为主：开通后得到可导入 Clash、Shadowrocket 等客户端的节点列表，按需切换地区与线路。它也能以 VPN / 系统代理方式工作，但并不是单一封闭 App。相比只提供固定出口的加速器，订阅模式便于区分流媒体解锁、IPLC 游戏线路和日常浏览节点。</p></details><details><summary>如何从官网完成客户端下载并导入订阅？</summary><p>先在本页「客户端下载」确认系统对应软件，从该软件的官方或应用商店安装。然后在松果云订阅面板复制链接，于客户端中新增订阅并更新。不要使用第三方重新打包的安装程序，也不要扫描来源不明的二维码，以免订阅被替换。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体。旗舰版每月 300GB、5 台设备，含全节点原生解锁、IPLC 游戏优化与优先工单，是大多数个人用户的平衡选择。团队版每月 1000GB、20 台设备，带 VIP 高带宽与定制路由，面向工作室或小团队共享。</p></details><details><summary>年付如何计算？中途流量用完怎么办？</summary><p>三个套餐的年付均为「按年付仅需 10 个月价格」：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。流量按自然月或套餐周期重置（以开通页规则为准）。若当月额度提前用尽，可等待重置、临时减少 4K 串流，或升级到更高档位，避免反复中断。</p></details><details><summary>能否解锁常见流媒体？游戏延迟如何优化？</summary><p>基础版支持基础流媒体解锁；旗舰版与团队版强调全节点原生解锁，更适合连续播放。游戏方面请使用旗舰版标注的 IPLC 专线，固定一条延迟最低的节点，并关闭客户端里不必要的全局规则干扰。实际效果仍受本地宽带与运营商路由影响。</p></details><details><summary>多设备同时在线超限会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台为同时在线上限。超出后新设备可能无法握手或旧会话被挤下线。建议关闭长期挂机的闲置终端，或把家庭与办公账号分开。团队若需更多席位，应直接使用团队版而非反复分享同一订阅给无关设备。</p></details><details><summary>怎样确认自己正在访问松果云官网？</summary><p>请核对本页品牌名称「松果云」、套餐价格与功能描述是否一致，并通过官方公布的域名进入。任何要求额外远控、索要验证码转发或提供「破解客户端」的来源都不是官网流程。下载与订阅导入完成后，可在客户端日志中确认节点前缀与到期时间。</p></details></div><h2>官方身份与使用建议</h2><p>松果云官网用于展示机场订阅方案、VPN 客户端下载路径与操作说明。节点名称、流量统计与到期时间以用户面板为准。建议定期更新客户端内核与规则，避免过期配置导致解锁失败。本页内容供阅读与对照，不替代具体服务条款中的用量与合规约定。</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>广告与友链</h2><p class=\"ads\">广告：跨境协作工具、云存储与安全终端防护可与松果云机场订阅搭配使用，选择正规厂商以降低账号风险。</p><p class=\"friends\" id=\"sitemap\">友链与网站地图：<a href=\"#top\">官网首页</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></p><p class=\"muted\">松果云官方网站 · 机场订阅与网络加速服务说明 · 请通过官网获取客户端下载与订阅</p></div></footer>",
+          "hash": "704d1a96c8a0a65006f2a75ffc72b285d7d33ad2126a35905335105d7dfb6771",
+          "seo": {
+            "title": "松果云官方网站：机场订阅、VPN 梯子加速与客户端下载",
+            "keywords": "松果云,松果云官网,松果云机场,松果云VPN,机场订阅,VPN客户端下载,网络加速器,梯子,IPLC,流媒体解锁",
+            "description": "松果云是提供机场订阅与VPN客户端的网络加速服务官网，覆盖办公、流媒体与游戏场景，支持多设备在线与年付优惠，欢迎通过官方网站了解套餐并下载客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hws9wbf.cn",
+    "host": "p-d144d8bcac.hws9wbf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "heala.cn",
+      "url": "https://heala.cn/",
+      "label": "松果云",
+      "apex": "heala.cn",
+      "kind": null,
+      "identity": "vwd3ggpu/page-c15d70d0f1bc8ec8d26e47f6"
+    },
+    {
+      "host": "houfga.cn",
+      "url": "https://houfga.cn/",
+      "label": "松果云",
+      "apex": "houfga.cn",
+      "kind": null,
+      "identity": "efhhynrkm/page-419a0fb0fa7e7019e113da9b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bab7a3115a7ea4fef1ac3527ba32ae89eb06874bf1744072f0ed40266a8709d1",
+    "sitemap.xml": "949aea17155e981ef4e7581be16f391126d441ec60f0b5292bb90b499a2634f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7175e55aee151c94140b06948fa62d5a55b3a9c1a0702eafd87ffa914781497d",
+    "robots.txt": "c16854f59075d4f8939f2d243152160e94784de59c985896cab4b3700270f4f1",
+    "0579ac03011d80ec0e7a4f8a799d51e0.txt": "49b25c2ee497537acaeac86679b7bf7f79b955464194c1ce63d0e58400e4a739"
+  },
+  "revision": "d3be837f8990ce6d2c2d2d53138ad68e464288d4de833667471ccf822ac5c617"
+}
